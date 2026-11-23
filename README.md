@@ -152,5 +152,11 @@ By combining sales analysis, regional performance, product profitability, custom
 
 
 ---
+DashBoard Preview 
 
+<img width="1645" height="922" alt="Excutive Sales OverView" src="https://github.com/user-attachments/assets/21d51407-0e1c-43ef-9bb9-a2e01ee49a1a" />
+<img width="1651" height="926" alt="Sales   Regional" src="https://github.com/user-attachments/assets/c340bd03-b0b6-446a-ab2c-21a29186bc61" />
+<img width="1653" height="926" alt="Product   Profitability" src="https://github.com/user-attachments/assets/c7910d26-09b2-4561-b19f-81f36d537dab" />
+<img width="1652" height="922" alt="Customer Analysis" src="https://github.com/user-attachments/assets/7c110dd2-e20e-41b8-9d3e-adf6e917b16b" />
 
+---
